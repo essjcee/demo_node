@@ -1,0 +1,22 @@
+{
+  "name": "demo_node",
+  "version": "1.0.0",
+  "description": "simple node jenkins app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/essjcee/demo_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/essjcee/demo_node/issues"
+  },
+  "homepage": "https://github.com/essjcee/demo_node#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
